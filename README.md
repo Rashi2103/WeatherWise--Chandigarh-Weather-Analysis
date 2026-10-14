@@ -7,6 +7,13 @@
 ## Why this project?
 
 This project extends the theme of my IEEE-published work, *“Real-Time Weather Data Analysis for Disaster Management and Response,”* by making weather data exploration interactive and student-friendly. It is designed to support science communication: learners can explore the data, ask questions, and understand the difference between an observed weather condition and a verified disaster event.
+## Research Publication
+
+**Title:** Real-Time Weather Data Analysis for Disaster Management and Response
+
+**Conference:** 2024 First International Conference for Women in Computing (InCoWoCo)
+
+**Publication Link:** [View publication on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10863368)
 
 ## Features
 
